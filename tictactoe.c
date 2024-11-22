@@ -20,12 +20,27 @@ void printboard() {
 
 }
 
+void test_if_win(){
 
+}
 
+void test_if_draw(){
+
+}
+
+void player1_move(){
+
+}
+
+void player2_move(){
+
+}
+
+void comp_move(){
+
+}
 
 int main(){
-    printboard();
+    printboard(); // Original-Board wird ausgegeben
 
-    board[1][1] = player1;
-    printboard();
 }
